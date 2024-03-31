@@ -24,12 +24,7 @@ languages i commonly use:
 ---
 interests:
 - coding (backend is my favourite)
-- anime + manga (no particular order or grouping)
-  - sword art online  // frieren
-  - oshi no ko        // jujutsu kaisen
-  - bunny girl senpai // toradora
-  - your lie in april // kaguya-sama
-  - 5 centimeters per second
+- anime + manga ( <a href="https://myanimelist.net/profile/itschasa" target="_blank">MAL profile</a> )
 - <a href="https://myfigurecollection.net/profile/chasa" target="_blank">figure collecting</a>
 - gaming
   - <a href="https://osu.ppy.sh/users/22335237" target="_blank">osu</a> // minecraft
