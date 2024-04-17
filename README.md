@@ -3,7 +3,6 @@ hello 👋
 things i've built:
 - noblocc ( <a href="https://noblo.cc" target="_blank">noblo.cc</a> | <a href="https://discord.gg/GZ22YZBpv5" target="_blank">discord</a> )
   - a popular web proxy site used to circumvent anti-privacy software and restrictions
-  - currently undergoing a recode to add better security, more features, and better performance
 - luxurynitro ( <a href="https://dash.luxurynitro.com" target="_blank">dashboard</a> )
   - an automated service that lets users obtain discord nitro via "sniping" for a cheaper price
 - luxurynitro members ( <a href="https://mem.luxurynitro.com/" target="_blank">dashboard</a> )
