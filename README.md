@@ -28,6 +28,7 @@ interests:
 - gaming
   - <a href="https://osu.ppy.sh/users/22335237" target="_blank">osu</a> // minecraft
   - fortnite // ets2 (truckersmp)
+  - switch sports // mc dungeons
 - building home cinema
   - 5.1 audio setup + 55" 4k OLED TV
 
