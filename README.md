@@ -36,5 +36,5 @@ interests:
 github stats:
 
 <a href="https://chasa.wtf">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=itschasa&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img style="width: clamp(50%, 600px, 80%)" src="https://github-readme-stats.vercel.app/api?username=itschasa&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
 </a>
