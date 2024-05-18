@@ -28,8 +28,8 @@ interests:
 - gaming
   - <a href="https://osu.ppy.sh/users/22335237" target="_blank">osu</a> // minecraft
   - fortnite // ets2 (truckersmp)
-- building a ridiculous audio setup
-  - currently have a 5.1 cinema room with 55" 4k OLED
+- film + tv enjoyer
+  - 5.1 audio + 55" 4k OLED TV
 
 ---
 github statistics:
