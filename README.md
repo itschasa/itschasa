@@ -22,17 +22,17 @@ languages i commonly use:
 
 ---
 interests:
-- coding (backend is my favourite)
-- anime + manga ( <a href="https://myanimelist.net/profile/itschasa" target="_blank">MAL profile</a> )
-- figure collecting ( <a href="https://myfigurecollection.net/profile/chasa" target="_blank">MFC profile</a> )
+- coding (backend <3)
+- tennis
+- anime ( <a href="https://myanimelist.net/profile/itschasa" target="_blank">MAL profile</a> | <a href="https://myfigurecollection.net/profile/chasa" target="_blank">MFC profile</a> )
 - gaming
   - <a href="https://osu.ppy.sh/users/22335237" target="_blank">osu</a> // minecraft
   - fortnite // ets2 (truckersmp)
 - film + tv enjoyer
-  - 5.1 audio + 55" 4k OLED TV
+  - 5.1 audio setup + 55" 4k OLED TV
 
 ---
-github statistics:
+github stats:
 
 <a href="https://chasa.wtf">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=itschasa&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true"/>
