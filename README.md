@@ -20,7 +20,7 @@ languages i commonly use:
 interests:
 - coding (backend <3)
 - tennis
-- anime ( <a href="https://myanimelist.net/profile/itschasa" target="_blank">MAL profile</a> | <a href="https://myfigurecollection.net/profile/chasa" target="_blank">MFC profile</a> )
+- anime ( <a href="https://anilist.co/user/chasa/" target="_blank">AL profile</a> | <a href="https://myfigurecollection.net/profile/chasa" target="_blank">MFC profile</a> )
 - gaming
   - <a href="https://osu.ppy.sh/users/22335237" target="_blank">osu</a> // minecraft
   - fortnite // ets2 (truckersmp)
