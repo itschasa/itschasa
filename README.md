@@ -1,6 +1,6 @@
 hello 👋
 ---
-things i've built:
+some things i've built:
 - noblocc ( <a href="https://noblo.cc" target="_blank">noblo.cc</a> | <a href="https://discord.gg/GZ22YZBpv5" target="_blank">discord</a> )
   - a popular web proxy site used to circumvent anti-privacy software and restrictions
 - discord backup ( <a href="https://github.com/itschasa/Discord-Backup" target="_blank">github</a> )
@@ -10,23 +10,22 @@ things i've built:
   - a manga reader for komi-san that i made when i was a big fan
 
 ---
-languages i commonly use:
-- python (my most comfortable one)
-- javascript (i know my way around)
-- html + css (bootstrap is nice as well)
-- go (starting to get to grips with it)
+technologies i commonly use:
 
----
-interests:
-- coding (backend <3)
-- tennis
-- anime ( <a href="https://anilist.co/user/chasa/" target="_blank">AL profile</a> | <a href="https://myfigurecollection.net/profile/chasa" target="_blank">MFC profile</a> )
-- gaming
-  - <a href="https://osu.ppy.sh/users/22335237" target="_blank">osu</a> // minecraft
-  - fortnite // ets2 (truckersmp)
-  - switch sports // mc dungeons
-- building home cinema
-  - 5.1 audio setup + 55" 4k OLED TV
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ---
 github stats:
